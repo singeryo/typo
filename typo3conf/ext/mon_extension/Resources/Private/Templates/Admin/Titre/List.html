@@ -1,0 +1,28 @@
+
+<f:layout name="Default" />
+
+<f:section name="main">
+<h2>Listing for Titre</h2>
+
+<f:flashMessages />
+
+<table  class="tx_monextension">
+	<tr>
+		<th><f:translate key="tx_monextension_domain_model_titre.title" /></th>
+		<th><f:translate key="tx_monextension_domain_model_titre.author" /></th>
+		<th><f:translate key="tx_monextension_domain_model_titre.comment" /></th>
+		<th> </th>
+		<th> </th>
+	</tr>
+
+	<f:for each="{titres}" as="titre">
+		<tr>
+			<td>{titre.title}</td>
+			<td>{titre.author}</td>
+			<td>{titre.comment}</td>
+			<td><f:link.action action="delete" arguments="{titre : titre}">Delete</f:link.action></td>
+		</tr>
+	</f:for>
+</table>
+
+</f:section>

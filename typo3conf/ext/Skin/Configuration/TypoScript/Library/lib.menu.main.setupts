@@ -1,0 +1,17 @@
+#Objet menu hierarchique dynamique
+lib.menu = HMENU
+lib.menu {
+
+    #Menu qui genere du texte
+    1 = TMENU
+    1 {
+        expAll = 1
+
+        #NO c'est Etat Normal
+        NO = 1
+        NO.wrapItemAndSub = <li>|</li>
+
+        wrap = <ul class="nav navbar-nav navbar-right">|</ul>
+    }
+
+}

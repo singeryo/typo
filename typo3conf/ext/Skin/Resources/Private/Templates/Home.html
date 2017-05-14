@@ -1,0 +1,19 @@
+<f:layout name="Default"/>
+
+
+<f:section name="Default">
+    <h1>{data.title}</h1>
+
+    Template du home
+
+    <div>
+        <div class="container">
+            <div class="col-md-6 bg-light-blue">
+                <f:cObject typoscriptObjectPath="lib.mainContent"/>
+            </div>
+            <div class="col-md-6 bg-light-green">
+                <f:cObject typoscriptObjectPath="lib.col"/>
+            </div>
+        </div>
+    </div>
+</f:section>

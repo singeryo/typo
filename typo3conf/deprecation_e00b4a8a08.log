@@ -1,0 +1,418 @@
+06-02-17 17:24: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+06-02-17 17:24: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+06-02-17 17:34: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+06-02-17 17:34: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+27-02-17 19:34: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+27-02-17 19:34: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 17:56: Extension "felogin" must have a storagePid set via TypoScript or the plugin configuration.
+20-03-17 17:56: TYPO3\CMS\Frontend\Controller\TypoScriptFrontendController->getStorageSiterootPids() - since TYPO3 CMS 7, will be removed with TYPO3 CMS 8. The usage of "storage_pid" is discouraged, the option for "is_siteroot" is handled via the RootlineUtility directly. - {closure}#34 // TYPO3\CMS\Frontend\Http\Application->run#33 // TYPO3\CMS\Core\Core\Bootstrap->handleRequest#78 // TYPO3\CMS\Frontend\Http\RequestHandler->handleRequest#302 // TYPO3\CMS\Frontend\Controller\TypoScriptFrontendController->INTincScript#232 // TYPO3\CMS\Frontend\Controller\TypoScriptFrontendController->recursivelyReplaceIntPlaceholdersInContent#3488 // TYPO3\CMS\Frontend\Controller\TypoScriptFrontendController->INTincScript_process#3522 // TYPO3\CMS\Frontend\ContentObject\ContentObjectRenderer->cObjGetSingle#3577 // TYPO3\CMS\Frontend\ContentObject\ContentObjectRenderer->render#859 // TYPO3\CMS\Frontend\ContentObject\UserContentObject->render#943 // TYPO3\CMS\Frontend\ContentObject\ContentObjectRenderer->callUserFunction#40 // call_user_func_array#7310 // TYPO3\CMS\Felogin\Controller\FrontendLoginController->main# // TYPO3\CMS\Frontend\Controller\TypoScriptFrontendController->getStorageSiterootPids#133 // TYPO3\CMS\Core\Utility\GeneralUtility::logDeprecatedFunction#4258 (_src-7.6.15/typo3/sysext/frontend/Classes/Controller/TypoScriptFrontendController.php#4256)
+20-03-17 18:11: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 18:34: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 18:34: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 19:24: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 19:42: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 19:42: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 20:28: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 20:32: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 20:32: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 20:34: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 20:34: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 20:41: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 20:41: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 20:44: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 20:44: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+20-03-17 20:46: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+03-04-17 18:08: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+03-04-17 18:08: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+03-04-17 19:12: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+03-04-17 20:48: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+03-04-17 21:28: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+24-04-17 17:31: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+24-04-17 17:31: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+24-04-17 21:19: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+24-04-17 21:20: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+24-04-17 21:36: Automatic TCA migration done during bootstrap. Please adapt TCA accordingly, these migrations will be removed with TYPO3 CMS 8. The backend module "Configuration -> TCA" shows the modified values. Please adapt these areas:
+Changed showitem string of TCA table "tx_monextension_domain_model_auteur" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_commentaire" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_demo" type "1" due to changed field "sys_language_uid".
+Changed showitem string of TCA table "tx_monextension_domain_model_titre" type "1" due to changed field "sys_language_uid".
+Migrated TCA table "tx_monextension_domain_model_auteur" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_commentaire" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_demo" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+Migrated TCA table "tx_monextension_domain_model_titre" showitem field of type "1": Moved additional palette with name "1" as 3rd argument of field "hidden" to an own palette. The result of this part is: "hidden, --palette--;;1"
+[tx_monextension_domain_model_auteur.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_commentaire.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_demo.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead
+[tx_monextension_domain_model_titre.ctrl.iconfile] relative path to ../typo3conf/ext/ is deprecated, use EXT: instead

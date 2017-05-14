@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-02-06T17:49:38Z" product-name="mon_extension">
+		<header/>
+		<body>
+			<trans-unit id="tx_monextension_domain_model_titre">
+				<source>Titre</source>
+			</trans-unit>
+			<trans-unit id="tx_monextension_domain_model_titre.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_monextension_domain_model_titre.author">
+				<source>Author</source>
+			</trans-unit>
+			<trans-unit id="tx_monextension_domain_model_titre.comment">
+				<source>Comment</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

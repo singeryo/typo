@@ -1,0 +1,22 @@
+<f:layout name="Default" xmlns:f="http://www.w3.org/1999/html"/>
+<f:section name="Default">
+<div class="container">
+<p>Welcome, <f:cObject typoscriptObjectPath="lib.userinfo"/></p>
+    <div class="row">
+        <div class="container">
+            <div class="col-md-6 bg-light-blue">
+                <f:cObject typoscriptObjectPath="lib.mainContent"/>
+            </div>
+            <div class="col-md-6 bg-light-green">
+                <f:cObject typoscriptObjectPath="lib.col"/>
+            </div>
+        </div>
+            <!-- Pager -->
+            <ul class="pager">
+                <li class="next">
+                    <a href="#">Older Posts &rarr;</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</f:section>

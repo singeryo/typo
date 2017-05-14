@@ -1,0 +1,7 @@
+
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:Skin/Configuration/TypoScript/Configuration" extension="setupts">
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:Skin/Configuration/TypoScript/Library" extension="setupts">
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:Skin/Configuration/TypoScript/Extension" extension="setupts">
+
+
+
